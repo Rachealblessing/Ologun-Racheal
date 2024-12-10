@@ -12,9 +12,7 @@ A detailed-oriented data analyst with a passion for transforming raw data into a
 *   ✉️  You can contact me at [Saologun@yahoo.com](mailto:Saologun@yahoo.com)
 *   🚀  I'm currently working on [Brainwave\_intern](http://github.com/Rachealblessing/Brainwave-_Matrix_Intern)
 *   🧠  I'm learning Programming for Data Analysis<a href="https://www.github.com/Rachealblessing" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Rachealblessing?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-                    </p>
+                  
+                    
                     
                   
